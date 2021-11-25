@@ -1,4 +1,4 @@
-# coding-test
+# SQL-PRACTICE
 
 ## SQL
 
