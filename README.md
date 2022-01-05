@@ -1,6 +1,6 @@
 # SQL-PRACTICE
 
-## SQL
+## Hacker Rank SQL Practice
 
 |CONTENT|SKILLS|DIFFICULTY|SUBDOMAINS|STATUS|CODE|
 |---|---|---|---|---|---|
